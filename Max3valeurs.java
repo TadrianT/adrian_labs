@@ -40,7 +40,8 @@ public class Max3valeurs {
 
     }
 
-
+//test changes
+    
     public static int calculMax3(int a, int b, int c) {
         int max;
 
