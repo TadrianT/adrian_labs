@@ -40,6 +40,7 @@ public class Max3valeurs {
 
     }
 
+
     public static int calculMax3(int a, int b, int c) {
         int max;
 
