@@ -1,3 +1,3 @@
 # adrian_labs
-tests and test, including learning to  work with GitHub
+tests and test, including learning to  work with GitHub,
 all of this during  "attestation of collegial studies"
